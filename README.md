@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Allez SYH
+### Hi there 👋 I'm Allez SYH </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**allez2020/allez2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Allez SYH](https://img.shields.io/github/followers/allezsyh?label=follow&style=social)](https://github.com/allezsyh)
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
