@@ -1,11 +1,16 @@
 ## Hey 👋 I'm Allez Shi😎 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!-- [![GitHub allezsyh](https://img.shields.io/github/followers/allezsyh?label=follow&style=social)](https://github.com/allezsyh) -->
-<!-- [![CSDN allezsyh]](https://blog.csdn.net/LemonShy2019?type=blog) -->
+
 <div align="left">
 <a href="https://github.com/allezsyh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://blog.csdn.net/LemonShy2019?type=blog" target="_blank">
+<img src=https://img.shields.io/badge/csdn-%23EE4831.svg?&style=for-the-badge&logo= csdn &logoColor=white alt=csdn style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.zhihu.com/people/gu-du-de-guan-cha-zhe-14-91" target="_blank">
+<img src=https://img.shields.io/badge/zhihu-%232E87FB.svg?&style=for-the-badge&logo=zhihu&logoColor=white alt=csdn style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/AllezShi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -16,29 +21,31 @@
 <a href="https://www.facebook.com/profile.php?id=100079534635939" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://blog.csdn.net/LemonShy2019?type=blog" target="_blank">
-<img src=https://img.shields.io/badge/csdn-%23EE4831.svg?&style=for-the-badge&logo=csdn&logoColor=red alt=csdn style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.zhihu.com/people/gu-du-de-guan-cha-zhe-14-91" target="_blank">
-<img src=https://img.shields.io/badge/zhihu-%23EE4831.svg?&style=for-the-badge&logo=csdn&logoColor=red alt=csdn style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
+</div>  
 
-<br/>  
-
-
-
-
+<img align="right" alt="GIF" src="https://github.com/allezsyh/allezsyh/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### 🧐 More About Me:
-- 🔭 I’m currently studying in **HIT(SZ)**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I’m currently studying in **[HIT(SZ)](https://www.hitsz.edu.cn/)**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning **Python, OpenCV and Pytorch**
 - 👯 I’m looking to collaborate on ...
 - 👨 Pronouns: he/him
 - 💬 Ask me about **Python and Algorithms**
 
-### 🔨 Languages and Tools:
+### 🔨 Languages and Frameworks:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+
+### 🔨 Tools and Environments:
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="OpenCV" height ="42px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg"></a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="42px"/> </a> 
