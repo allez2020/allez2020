@@ -23,6 +23,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
+  
 For Chinese friends, you can find my commonly used blogs ([CSDN](https://blog.csdn.net/LemonShy2019?type=blog) and [Jianshu](https://www.jianshu.com/u/00103a9c18e4)) with my daliy works.
 I record and share the solutions for the problems I encountered in my study and work above.
 They are nice platforms for Chinese coders to discuss technical issue.
@@ -38,6 +39,7 @@ They are nice platforms for Chinese coders to discuss technical issue.
 
 ---
 
+
 ### 🔨 Languages and Frameworks:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -48,7 +50,7 @@ They are nice platforms for Chinese coders to discuss technical issue.
 <code><img height="20" src="https://github.com/allezsyh/allezsyh/blob/main/pytorch-logo.png" alt="pytorch" title="pytorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
-### 🔨 Tools and Environments:
+### 🔧 Tools and Environments:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="OpenCV" height ="42px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg"></a>
@@ -62,8 +64,9 @@ They are nice platforms for Chinese coders to discuss technical issue.
 
 <br/>   
 
+
 ### 📊 Github Stats
-  
+
  <!-- [![AllezShi's GitHub stats](https://github-readme-stats.vercel.app/api?username=allezsyh)](https://github.com/allezsyh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allezsyh)](https://github.com/allezsyh/github-readme-stats) -->
 
