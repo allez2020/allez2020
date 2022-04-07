@@ -22,8 +22,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-</div>  
-
 For Chinese friends, you can find my commonly used blogs ([CSDN](https://blog.csdn.net/LemonShy2019?type=blog) and [Jianshu](https://www.jianshu.com/u/00103a9c18e4)) with my daliy works.
 I record and share the solutions for the problems I encountered in my study and work above.
 They are nice platforms for Chinese coders to discuss technical issue.
