@@ -25,7 +25,7 @@
   
 </div>  
 
-<img align="right" alt="GIF" src="https://github.com/allezsyh/allezsyh/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/allezsyh/allezsyh/blob/main/code.gif?raw=true" width="450" height="288" />
 
 ### 🧐 More About Me:
 - 🔭 I’m currently studying in **[HIT(SZ)](https://www.hitsz.edu.cn/)**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
