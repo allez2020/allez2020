@@ -24,21 +24,21 @@
 </a>
 
   
-For Chinese friends, you can find my commonly used blogs ([CSDN](https://blog.csdn.net/LemonShy2019?type=blog) and [Jianshu](https://www.jianshu.com/u/00103a9c18e4)) with my daliy works.
+For Chinese friends👭, you can find my commonly used blogs📖 ([CSDN](https://blog.csdn.net/LemonShy2019?type=blog) and [Jianshu](https://www.jianshu.com/u/00103a9c18e4)) with my daliy works.
 I record and share the solutions for the problems I encountered in my study and work above.
 They are nice platforms for Chinese coders to discuss technical issue.
+I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 <img align="right" alt="GIF" src="https://github.com/allezsyh/allezsyh/blob/main/code.gif?raw=true" width="450" height="288" />
 
 ### 🧐 More About Me:
-- 🔭 I’m currently studying in **[HIT(SZ)](https://www.hitsz.edu.cn/)** for a master's degree.
-- 🌱 I’m currently learning **Python, OpenCV and Pytorch**. My research interests lie at **Machine Learning** and **Computer Vision**.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 You can ask me about **Python and Algorithms** [here](https://github.com/allezsyh/allezsyh/issues).
+- 🔭 I’m currently studying in 🏫 **[HIT(SZ)](https://www.hitsz.edu.cn/)** for a 🎓master's degree.
+- 🌱 I’m currently learning **Python**, **OpenCV** and **Pytorch**. My research interests lie at **Machine Learning** and **Computer Vision**.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 You can ask me about **Python** and **Algorithms** [here](https://github.com/allezsyh/allezsyh/issues).
 - 👨 Pronouns: he/him.
 - 🎬 When I am free, I watch movies, such as **Marvel** and **DC**. I like suspense and time travel movies e.g. Inception.
 
 ---
-
 
 ### 🔨 Languages and Frameworks:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
@@ -64,6 +64,7 @@ They are nice platforms for Chinese coders to discuss technical issue.
 
 <br/>   
 
+---
 
 ### 📊 Github Stats
 
