@@ -30,9 +30,9 @@
 ### 🧐 More About Me:
 - 🔭 I’m currently studying in **[HIT(SZ)](https://www.hitsz.edu.cn/)**</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning **Python, OpenCV and Pytorch**
-- 👯 I’m looking to collaborate on ...
-- 👨 Pronouns: he/him
 - 💬 Ask me about **Python and Algorithms**
+- 👨 Pronouns: he/him
+- 🎬 When I am free, I watch movies, such as Marvel and DC. I like suspense and time travel movies e.g. Inception.
 
 ### 🔨 Languages and Frameworks:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
@@ -41,7 +41,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://github.com/allezsyh/allezsyh/blob/main/pytorch-logo.png" alt="pytorch" title="pytorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
 ### 🔨 Tools and Environments:
